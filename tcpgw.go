@@ -7,8 +7,8 @@ import (
 	"log"
 	"os"
 
-	m "tcpgw/method"
-	n "tcpgw/network"
+	m "github.com/moxianfeng/tcpgw/method"
+	n "github.com/moxianfeng/tcpgw/network"
 
 	"github.com/moxianfeng/gofactory"
 )
